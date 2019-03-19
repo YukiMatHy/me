@@ -4,7 +4,7 @@ email: kieuhy.mk92@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml.
-baseurl: "/me" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://yukimathy.github.io" # the base hostname & protocol for your site
 twitter_username: yukimathy
 github_username:  yukimathy
